@@ -47,7 +47,3 @@ Check out my scripts below:
 - Integrates with MarketplaceService ProcessReceipt system.
 
 ---
-
-## 🔗 Portfolio Website
-Check out my showcase videos & demos:  
-[Blaze’s Portfolio](https://sites.google.com/view/blazescriptsportfolio/home)
